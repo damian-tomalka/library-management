@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.edu.wszib.librarymanagement.LibraryManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.712 s -- in pl.edu.wszib.librarymanagement.LibraryManagementApplicationTests

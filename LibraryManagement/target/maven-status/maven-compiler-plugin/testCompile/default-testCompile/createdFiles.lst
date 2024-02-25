@@ -1,0 +1,3 @@
+pl\edu\wszib\librarymanagement\LibraryManagementApplicationTests.class
+pl\edu\wszib\librarymanagement\BookControllerIntegrationTest.class
+pl\edu\wszib\librarymanagement\service\BookServiceTest.class

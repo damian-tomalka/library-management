@@ -1,0 +1,13 @@
+pl\edu\wszib\librarymanagement\controller\BookController.class
+pl\edu\wszib\librarymanagement\dto\BookDTO.class
+pl\edu\wszib\librarymanagement\LibraryManagementApplication.class
+pl\edu\wszib\librarymanagement\mapper\BookMapperImpl.class
+pl\edu\wszib\librarymanagement\config\SecurityConfig.class
+pl\edu\wszib\librarymanagement\service\BookService.class
+pl\edu\wszib\librarymanagement\mapper\IBookMapperImpl.class
+pl\edu\wszib\librarymanagement\utility\ProfileLogger.class
+pl\edu\wszib\librarymanagement\dao\ListBookDao.class
+pl\edu\wszib\librarymanagement\dao\BookDao.class
+pl\edu\wszib\librarymanagement\model\Book.class
+pl\edu\wszib\librarymanagement\mapper\IBookMapper.class
+pl\edu\wszib\librarymanagement\repository\BookRepository.class
